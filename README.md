@@ -152,8 +152,7 @@ plt.show()
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
